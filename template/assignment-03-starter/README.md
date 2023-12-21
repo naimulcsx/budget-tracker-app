@@ -1,8 +1,15 @@
-# React + Vite
+## Assignment 03
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The files in this folder serve as the starting point for Assignment 03. Please review the instructions and use these materials to begin your assignment.
 
-Currently, two official plugins are available:
+## Submission Guidelines
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create a repository on your Github named `iw-assignment-03`
+- Copy the files of this folder and write your solution on top of it.
+- Create a entry on the Google Sheet with the github repo link.
+
+## Deliverables
+
+- Calculate the budget available
+- Implement the delete entry functionality
+- Implement edit income / expense value functionality with a `prompt`
